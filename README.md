@@ -1,4 +1,4 @@
-World Time App
+# World Time App
 
 Run this file from the main.dart file found in the lib folder.
 
@@ -7,4 +7,5 @@ Enter a continent with a country/region in that area and the app will tell you t
 
 This program was created by Shalee Qureshi
 Website: https://www.squreshi.net/home
+
 Github: https://github.com/ShaleeQureshi
